@@ -1,10 +1,6 @@
-                                           <p align="center">
-                                        <h1>Welcome to my profile 👋</h1>
+Hi 👋 I'm Amir Ali
 
-                                               <h2>Hi 👋 I'm Amir Ali</h2>
-
-                                       <h2>💻 DevOps Engineer | Cloud Enthusiast</h2>
-                                       </p>
+💻 DevOps Engineer | Cloud Enthusiast
 
 ---
 
