@@ -1,6 +1,6 @@
 #Hi 👋 I'm Amir Ali
 
-💻 Aws DevOps Engineer
+💻 AWS DevOps Engineer
 
 ---
 
