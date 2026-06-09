@@ -1,6 +1,6 @@
 #Hi 👋 I'm Amir Ali
 
-💻 DevOps Engineer | Cloud Enthusiast
+💻 Aws DevOps Engineer
 
 ---
 
